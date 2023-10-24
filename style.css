@@ -1,0 +1,92 @@
+.bg-image{
+    background-image: url('https://www.zdnet.com/a/img/resize/cdc2897aa0866725ee447c0f35c730212fa91b7b/2020/12/11/bb70ffc0-7d9a-4ed6-a29d-67e9044f2344/top.jpg?auto=webp&width=1280');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100px;
+    padding-bottom: 400px;
+}
+span{
+    color: floralwhite;
+    font-size: 40px;
+}
+h5{
+    padding-top: 145px;
+}
+.heading1{
+    text-align: center;
+    font-size: 45px;
+}
+.head1{
+    padding-top: 15px;
+}
+.air{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    padding-top: 10px;
+}
+.pro{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    padding-top: 10px;
+}
+.mac{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    padding-top: 10px;
+}
+.price{
+    text-align: center;
+    font-size: 20px;
+    font-family: fangsong;
+}
+.heading2{
+    text-align: center;
+    font-size: 45px;
+}
+.head2{
+    padding-top: 30px;
+}
+.heading3{
+    text-align: center;
+    font-size: 45px;
+}
+.head3{
+    padding-top: 30px;
+}
+.heading4{
+    text-align: center;
+    font-size: 45px;
+}
+.head4{
+    padding-top: 30px;
+}
+.footer{
+    background-color: lightgray;
+}
+.dec{
+    font-size: 11.2px;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+hr{
+    border-width: 3px;
+}.wel{
+    font-size: 12.8px;
+    font-family: sans-serif;
+}
+ul.no{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.way{
+    font-size: 11.2px;
+    font-family: sans-serif;
+    color: #7F8C8D;
+    padding-top: 30px;
+}
